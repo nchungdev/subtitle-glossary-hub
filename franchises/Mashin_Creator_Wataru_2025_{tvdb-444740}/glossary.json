@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "id_glossary": "Mashin_Creator_Wataru_2025_{tvdb-444740}",
+    "title": "Mashin Creator Wataru (Ma Thần Sáng Tạo Truyền Wataru 2025)",
+    "original_title": "魔神創造伝ワタル",
+    "type": "tv",
+    "year": "2025",
+    "tvdb_id": "444740",
+    "tmdb_id": "271264",
+    "imdb_id": "tt33304729",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Mecha"
+    ],
+    "recommended_style": "mecha-robot-karaoke"
+  },
+  "nhan_vat": {
+    "Wataru Hoshibe": {
+      "kanji": "星部ワタル",
+      "han_viet": "Tinh Bộ Wataru",
+      "vai_tro": "Nhân vật chính, học sinh lớp 4, RyuTuber",
+      "xung_ho": {
+        "voi_moi_nguoi": "tôi / em / tớ",
+        "tu_xung": "tớ"
+      }
+    },
+    "Ryujinmaru": {
+      "kanji": "龍神丸",
+      "han_viet": "Long Thần Hoàn",
+      "vai_tro": "Ma thần đồng hành (lồng tiếng: Tomokazu Sugita)",
+      "xung_ho": {
+        "voi_wataru": "Wataru / ta"
+      }
+    },
+    "Kakeru Amabe": {
+      "kanji": "天部カケル",
+      "han_viet": "Thiên Bộ Kakeru",
+      "vai_tro": "Bạn đồng hành"
+    },
+    "Offline / Online": {
+      "kanji": "オフライン / オンライン",
+      "vai_tro": "Nhân vật hỗ trợ thế giới số"
+    },
+    "Maro": {
+      "kanji": "マロ",
+      "vai_tro": "Linh vật đồng hành"
+    }
+  },
+  "mecha_and_chieu_thuc": {
+    "Ryujinmaru": "Long Thần Hoàn",
+    "Kouryuken": "Hồng Long Kiếm (Karaoke 2 lớp)"
+  },
+  "quy_tac_dich": "Áp dụng phong cách Mecha Robot Karaoke 2 lớp cho câu lệnh triệu hồi và chiêu thức. Tên RyuTuber dịch tự nhiên theo văn hóa sáng tạo nội dung hiện đại."
+}
