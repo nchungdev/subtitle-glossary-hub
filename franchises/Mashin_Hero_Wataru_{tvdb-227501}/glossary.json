@@ -18,7 +18,18 @@
     },
     "luu_y_quan_trong": "Sub tiếng Anh dịch qua tiếng Trung nên NHIỀU TÊN BỊ PHIÊN ÂM SAI. Luôn tra bảng 'nhan_vat' / 'mashin' / 'dia_danh' để quy về romaji Nhật chuẩn, KHÔNG bê nguyên cách viết trong sub.",
     "luu_y_mashin": "Mashin ĐỔI TÊN theo từng phần (Phần 2 gắn tiền tố Shinsei). Tra đúng mục P1/P2/P3.",
-    "BAT_BUOC_100_PHAN_TRAM_TIENG_NHAT": "MỌI tên riêng PHẢI là tên tiếng Nhật (romaji). TUYỆT ĐỐI KHÔNG dùng tên phiên âm từ tiếng Trung, và KHÔNG giữ tên đã bị dịch nghĩa sang tiếng Anh. Sub này dịch qua tiếng Trung nên có ba loại lỗi phải sửa: (1) tên Trung bản địa hoá -> trả về tên Nhật; (2) tên bị dịch nghĩa sang tiếng Anh -> trả về romaji Nhật; (3) phiên âm romaji sai chính tả -> sửa về romaji chuẩn. Ngoại lệ DUY NHẤT: quy tắc 'ten_theo_moc_cot_truyen' — danh tính theo mốc cốt truyện thì vẫn giữ theo mốc."
+    "BAT_BUOC_100_PHAN_TRAM_TIENG_NHAT": "MỌI tên riêng PHẢI là tên tiếng Nhật (romaji). TUYỆT ĐỐI KHÔNG dùng tên phiên âm từ tiếng Trung, và KHÔNG giữ tên đã bị dịch nghĩa sang tiếng Anh. Sub này dịch qua tiếng Trung nên có ba loại lỗi phải sửa: (1) tên Trung bản địa hoá -> trả về tên Nhật; (2) tên bị dịch nghĩa sang tiếng Anh -> trả về romaji Nhật; (3) phiên âm romaji sai chính tả -> sửa về romaji chuẩn. Ngoại lệ DUY NHẤT: quy tắc 'ten_theo_moc_cot_truyen' — danh tính theo mốc cốt truyện thì vẫn giữ theo mốc.",
+    "ten_boss_phan_dien": {
+      "nguyen_tac": "Tên riêng của TRÙM/PHẢN DIỆN (Doakudar, Toraoh, Cruising Tom, Schwalbinegar, Death, Zan Kokku, v.v.) GIỮ ROMAJI 100% — KHÔNG chú Hán-Việt, KHÔNG dịch nghĩa, dù kanji của tên có ý nghĩa hoành tráng/đáng sợ đến đâu.",
+      "ly_do": "Cùng nguyên tắc với tên người nói chung (xem 'khong_chu_han_viet' ở trên) — áp dụng riêng rõ cho phe phản diện vì dễ bị cám dỗ dịch hoa mỹ theo kanji (vd 'Ma Vương' thay vì 'Doakudar').",
+      "phan_biet_voi_chuc_danh": "CHỈ khi sub dùng như CHỨC DANH/cách xưng hô chung chung (vd 'Tiger Prince' khi KHÔNG chỉ đích danh Toraoh) mới được dịch Hán-Việt theo bảng 'chuc_danh_biet_danh'. Khi dùng làm TÊN GỌI thẳng một nhân vật cụ thể -> luôn romaji, không ngoại lệ.",
+      "vi_du_dung": [
+        "Doakudar (KHÔNG viết 'Ma Vương Doakudar' hay 'Đa Ác Đạt')",
+        "Toraoh (KHÔNG viết 'Hổ Vương' khi gọi thẳng tên nhân vật)",
+        "Cruising Tom, Schwalbinegar, Zan Kokku, Zan Gorotsukii, Zan Gyakku, Don Goro — giữ nguyên romaji"
+      ],
+      "cap_nhat": "2026-09-09"
+    }
   },
   "nhan_vat": [
     {
